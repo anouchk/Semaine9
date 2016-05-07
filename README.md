@@ -1,8 +1,8 @@
 # Semaine9
 Javascript, les bases
-* **Exercice 1 :** <a href="https://htmlpreview.github.io/?https://github.com/anouchk/Semaine9/blob/master/exercice_1.html">Aperçu</a>
-* **Exercice 2 :** <a href="https://htmlpreview.github.io/?https://github.com/anouchk/Semaine9/blob/masterexercice_2.html">Aperçu</a>
-* **Exercice 3 :** <a href="https://htmlpreview.github.io/?https://github.com/anouchk/Semaine9/blob/master/exercice_3.html">Aperçu</a>
+* **Exercice 1 :** <a href="https://htmlpreview.github.io/?https://github.com/anouchk/Semaine9/blob/master/exercice_1/exo_1.html">Aperçu</a>
+* **Exercice 2 :** <a href="https://htmlpreview.github.io/?https://github.com/anouchk/Semaine9/blob/master/exercice_2/exo_2.html">Aperçu</a>
+* **Exercice 3 :** <a href="https://htmlpreview.github.io/?https://github.com/anouchk/Semaine9/blob/master/exercice_3/exo_3.html">Aperçu</a>
 
 Cette semaine, j'ai aussi :
 * Passé les badges de codecademy sur <a href="https://www.codecademy.com/anouchk#completed">Javascript</a> 
