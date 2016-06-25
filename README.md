@@ -6,5 +6,5 @@ Javascript, les bases
 
 Cette semaine, j'ai aussi :
 * Passé les badges de codecademy sur <a href="https://www.codecademy.com/anouchk#completed">Javascript</a> 
-* Validé ceux d'OC sur <a href="https://openclassrooms.com/course-certificates/7502559261">Bootstrap</a>
-* Validé ceux d'OC sur <a href="https://openclassrooms.com/course-certificates/3297082830">HTML5 et CSS3</a>
+* Validé ceux d'OCR sur <a href="https://openclassrooms.com/course-certificates/7502559261">Bootstrap</a>
+* Validé ceux d'OCR sur <a href="https://openclassrooms.com/course-certificates/3297082830">HTML5 et CSS3</a>
